@@ -1,0 +1,1 @@
+Lecciones trabajadas en el curso DESARROLLO DE APLICACIONES FULL STACK PYTHON TRAINEE 
